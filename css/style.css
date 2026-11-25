@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Isometra&display=swap');
+
+
+*{
+  margin: 0;
+  font-family: "instrument serif", Isometra;
+}
+body {
+  background-color: #ffe6e6;
+  }
+  
+ 
+main{
+  max-width:500px;
+  margin:auto;
+  
+}
+h1{
+  font-family: "Isometra", instrument serif;
+  margin-bottom: 1em;
+  
+}
+figure{
+  width: 350px;
+  margin: auto;
+  background-color: #ffb3b3;
+  border: 5px solid white;
+}
+
+figure img {
+  width: 100%
+   
+  }
+figcaption{
+  background-color: #ff9999;
+  padding: 1em;
+  font-size: medium;
+  font-style: italic;
+}
+article{
+  margin-bottom: 2em;
+}
+h2{
+  margin-top: .75em;
+}
